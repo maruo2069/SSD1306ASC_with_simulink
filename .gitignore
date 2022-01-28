@@ -1,1 +1,11 @@
 # List of untracked files to ignore
+ASC1306demo.eep
+ASC1306demo.elf
+ASC1306demo.hex
+ASC1306demo.slxc
+OLED_TEMPARATURE.mexw64
+OLED_TEMPARATURE_wrapperasv
+rtwmakerfg.m
+SFB__OLED_TEMPARATURE__SFB.mat
+ASC1306demo_ert_rtw/
+slprj/
